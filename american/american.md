@@ -1,5 +1,5 @@
 # Bay Ridge Restaurant Guide
-## American
+## [American](american.md)
 ---
 Select a restaurant:
 ## [McDonald's](http://www.mcdonalds.com/)
