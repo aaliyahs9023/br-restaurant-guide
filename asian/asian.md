@@ -1,5 +1,5 @@
 # Bay Ridge Restaurant Guide
-## [Asian](http://www.sakanabrooklynny.com/) 
+## Asian
 ---
 Select a specific Asian food:
 ## Chinese]
